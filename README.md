@@ -11,4 +11,6 @@ Projeto de prática do fluxo de desenvolvimento em camadas com Git e GitHub.
 - `suporte_vida.py`: monitora oxigênio, pressão e reciclagem de água.
 
 ## Tripulantes (desenvolvedores)
-- Gabriel
+- Gabriel Gobira
+- William Lázaro
+  
